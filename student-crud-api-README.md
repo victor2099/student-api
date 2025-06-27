@@ -23,7 +23,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/victor2099/student-api.git
 cd student-crud-api
 ```
 
